@@ -4,20 +4,23 @@
 * **Phone:**[+7-921-768-38-97](tel:89217683897)
 * **Email:** [marie.afanasyeva@gmail.com](mailtio:marie.afanasyeva@gmail.com)
 * **GitHub:** [maniacpuppet](https://github.com/maniacpuppet)
-* **LinkedIn:** []()
+
 ### About myself
 Currently working as online communications manager at Hlebny Dom (ex-[Fazer](https://www.fazergroup.com/) Bakery Russia) and dreaming of restarting my career as a front-end developer.
+
 ### Education
 * **Saint Petersburg State University**
     * Master of Public Relations as Part of International Relations 
 * **Saratov Stave University** 
     * Specialist in International Relations field 
     * Translator in the field of professional communication (RUS-ENG), additional diploma
+
 ### Languages
 * **Russian:** Native
 * **English:** Advanced
 * **French:** Can read and translate with dictionery 
 * **German:** Can read and translate with dictionery 
+
 ### Experience
 After almost 8 years in digital PR and communications look for new opportunities in web-development. I worked a lot as web-editor (Episerver, Tilda, Sharepoint) and launched new digital servises for internal and external audience using no-code solutions.
 As part of an international team at Fazer, implemented updates, audited and suggested for new developments for commum CMS-platforms, also educated local users.
@@ -25,6 +28,7 @@ After Fazer had to rapidly leave Russia, built temporary [company website](https
 #### Workplaces
 * **2016-current** Hlebny Don LLC (ex-[Fazer](https://www.fazergroup.com/) Bakery Russia), Saint Petersburg. 
 * **2014-2016** SPN Communications, Saint Petersburg. 
+
 ### Skills
 * Web-editing
 * HTML (Basic)
