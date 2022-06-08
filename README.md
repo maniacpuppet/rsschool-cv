@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maniacpuppet.github.io/rsschool-cv/cv
